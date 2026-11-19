@@ -72,4 +72,4 @@ Because **Dragon Egg Hunter** is built entirely within a single HTML file (`drag
 
 ## 📄 License
 
-Distributed under the MIT License. Feel free to modify, share, and expand upon this project for your portfolio or arcade enjoyment!
+Distributed with no License. 
